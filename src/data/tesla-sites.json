@@ -1,0 +1,524 @@
+{
+    "districts": [{
+        "districtGeolocation": {
+            "lat": -14.9876054,
+            "lng": 34.9561748
+        },
+        "districtName": "Balaka",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 468,
+        "numberOfActiveCases": 28,
+        "numberOfConfirmedDeaths": 14,
+        "numberOfRecoveredPatients": 426,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.78499,
+            "lng": 35.00854
+        },
+        "districtName": "Blantyre",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 10832,
+        "numberOfActiveCases": 124,
+        "numberOfConfirmedDeaths": 386,
+        "numberOfRecoveredPatients": 10322,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -16.0437784,
+            "lng": 34.8016945
+        },
+        "districtName": "Chikwawa",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 239,
+        "numberOfActiveCases": 33,
+        "numberOfConfirmedDeaths": 9,
+        "numberOfRecoveredPatients": 197,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.6759485,
+            "lng": 35.1406293
+        },
+        "districtName": "Chiradzulu",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 359,
+        "numberOfActiveCases": 3,
+        "numberOfConfirmedDeaths": 21,
+        "numberOfRecoveredPatients": 335,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -9.7037655,
+            "lng": 33.2700253
+        },
+        "districtName": "Chitipa",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 248,
+        "numberOfActiveCases": 2,
+        "numberOfConfirmedDeaths": 22,
+        "numberOfRecoveredPatients": 224,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -14.3816618,
+            "lng": 34.3254842
+        },
+        "districtName": "Dedza",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 446,
+        "numberOfActiveCases": 4,
+        "numberOfConfirmedDeaths": 9,
+        "numberOfRecoveredPatients": 433,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.65399,
+            "lng": 33.93754
+        },
+        "districtName": "Dowa",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 705,
+        "numberOfActiveCases": 38,
+        "numberOfConfirmedDeaths": 19,
+        "numberOfRecoveredPatients": 648,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -9.952536,
+            "lng": 33.9248222
+        },
+        "districtName": "Karonga",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 540,
+        "numberOfActiveCases": 35,
+        "numberOfConfirmedDeaths": 22,
+        "numberOfRecoveredPatients": 483,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.0356794,
+            "lng": 33.4719832
+        },
+        "districtName": "Kasungu",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 701,
+        "numberOfActiveCases": 10,
+        "numberOfConfirmedDeaths": 25,
+        "numberOfRecoveredPatients": 666,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -12.0584005,
+            "lng": 34.735403
+        },
+        "districtName": "Likoma",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 50,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 2,
+        "numberOfRecoveredPatients": 48,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.96692,
+            "lng": 33.78725
+        },
+        "districtName": "Lilongwe",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 7881,
+        "numberOfActiveCases": 80,
+        "numberOfConfirmedDeaths": 284,
+        "numberOfRecoveredPatients": 7517,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.1699934,
+            "lng": 35.2999779
+        },
+        "districtName": "Machinga",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 311,
+        "numberOfActiveCases": 18,
+        "numberOfConfirmedDeaths": 8,
+        "numberOfRecoveredPatients": 285,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -14.4861733,
+            "lng": 35.253304
+        },
+        "districtName": "Mangochi",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 953,
+        "numberOfActiveCases": 12,
+        "numberOfConfirmedDeaths": 14,
+        "numberOfRecoveredPatients": 927,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.8000058,
+            "lng": 32.8930441
+        },
+        "districtName": "Mchinji",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 586,
+        "numberOfActiveCases": 34,
+        "numberOfConfirmedDeaths": 22,
+        "numberOfRecoveredPatients": 530,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -16.025233,
+            "lng": 35.5083136
+        },
+        "districtName": "Mulanje",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 617,
+        "numberOfActiveCases": 17,
+        "numberOfConfirmedDeaths": 27,
+        "numberOfRecoveredPatients": 573,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.60262,
+            "lng": 34.52479
+        },
+        "districtName": "Mwanza",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 229,
+        "numberOfActiveCases": 54,
+        "numberOfConfirmedDeaths": 6,
+        "numberOfRecoveredPatients": 169,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -11.4658922,
+            "lng": 34.0250099
+        },
+        "districtName": "Mzimba North",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 2247,
+        "numberOfActiveCases": 54,
+        "numberOfConfirmedDeaths": 52,
+        "numberOfRecoveredPatients": 2141,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -11.8991825,
+            "lng": 33.5923941
+        },
+        "districtName": "Mzimba South",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 538,
+        "numberOfActiveCases": 34,
+        "numberOfConfirmedDeaths": 26,
+        "numberOfRecoveredPatients": 478,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.3980503,
+            "lng": 34.6534309
+        },
+        "districtName": "Neno",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 592,
+        "numberOfActiveCases": 3,
+        "numberOfConfirmedDeaths": 8,
+        "numberOfRecoveredPatients": 581,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -11.6085556,
+            "lng": 34.2949409
+        },
+        "districtName": "Nkhata Bay",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 649,
+        "numberOfActiveCases": 6,
+        "numberOfConfirmedDeaths": 12,
+        "numberOfRecoveredPatients": 631,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -12.9316863,
+            "lng": 34.2810541
+        },
+        "districtName": "Nkhotakota",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 376,
+        "numberOfActiveCases": 11,
+        "numberOfConfirmedDeaths": 12,
+        "numberOfRecoveredPatients": 353,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -16.9205934,
+            "lng": 35.253304
+        },
+        "districtName": "Nsanje",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 185,
+        "numberOfActiveCases": 11,
+        "numberOfConfirmedDeaths": 4,
+        "numberOfRecoveredPatients": 170,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -14.9037538,
+            "lng": 34.7740793
+        },
+        "districtName": "Ntcheu",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 376,
+        "numberOfActiveCases": 15,
+        "numberOfConfirmedDeaths": 22,
+        "numberOfRecoveredPatients": 339,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.2841992,
+            "lng": 33.8857747
+        },
+        "districtName": "Ntchisi",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 137,
+        "numberOfActiveCases": 4,
+        "numberOfConfirmedDeaths": 3,
+        "numberOfRecoveredPatients": 130,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.7092038,
+            "lng": 35.6532848
+        },
+        "districtName": "Phalombe",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 330,
+        "numberOfActiveCases": 22,
+        "numberOfConfirmedDeaths": 7,
+        "numberOfRecoveredPatients": 301,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -11.0171949,
+            "lng": 33.8550829
+        },
+        "districtName": "Rumphi",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 313,
+        "numberOfActiveCases": 1,
+        "numberOfConfirmedDeaths": 23,
+        "numberOfRecoveredPatients": 289,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.7795533,
+            "lng": 34.458641
+        },
+        "districtName": "Salima",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 824,
+        "numberOfActiveCases": 20,
+        "numberOfConfirmedDeaths": 10,
+        "numberOfRecoveredPatients": 794,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -16.069257,
+            "lng": 35.1406293
+        },
+        "districtName": "Thyolo",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 431,
+        "numberOfActiveCases": 67,
+        "numberOfConfirmedDeaths": 19,
+        "numberOfRecoveredPatients": 345,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.3765857,
+            "lng": 35.3356518
+        },
+        "districtName": "Zomba",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 1582,
+        "numberOfActiveCases": 142,
+        "numberOfConfirmedDeaths": 60,
+        "numberOfRecoveredPatients": 1380,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.579378,
+            "lng": 34.479359
+        },
+        "districtName": "Mwanza PoE",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 354,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 354,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.7984,
+            "lng": 32.8802
+        },
+        "districtName": "Mchinji Border",
+        "numberOutcomeUnderInvestigation": 0,
+        "numberOfLostToFollowUp": 0,
+        "numberOfConfirmedCases": 0,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 0,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -14.76666,
+            "lng": 34.547633
+        },
+        "districtName": "Biriwiri Border",
+        "numberOutcomeUnderInvestigation": 0,
+        "numberOfLostToFollowUp": 0,
+        "numberOfConfirmedCases": 0,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 0,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -16.077012,
+            "lng": 35.737512
+        },
+        "districtName": "Muloza border",
+        "numberOutcomeUnderInvestigation": 0,
+        "numberOfLostToFollowUp": 0,
+        "numberOfConfirmedCases": 0,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 0,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -14.381662,
+            "lng": 34.325484
+        },
+        "districtName": "Dedza Border",
+        "numberOutcomeUnderInvestigation": 0,
+        "numberOfLostToFollowUp": 0,
+        "numberOfConfirmedCases": 0,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 0,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -13.78683,
+            "lng": 33.7751636
+        },
+        "districtName": "Kamuzu International Airport",
+        "numberOutcomeUnderInvestigation": 0,
+        "numberOfLostToFollowUp": 0,
+        "numberOfConfirmedCases": 0,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 0,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -15.67905,
+            "lng": 34.97401
+        },
+        "districtName": "Chileka Airport",
+        "numberOutcomeUnderInvestigation": 0,
+        "numberOfLostToFollowUp": 0,
+        "numberOfConfirmedCases": 0,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 0,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": -9.589674,
+            "lng": 33.776242
+        },
+        "districtName": "Songwe Border",
+        "numberOutcomeUnderInvestigation": 0,
+        "numberOfLostToFollowUp": 0,
+        "numberOfConfirmedCases": 0,
+        "numberOfActiveCases": 0,
+        "numberOfConfirmedDeaths": 0,
+        "numberOfRecoveredPatients": 0,
+        "numberOfSuspectedCases": 0
+    }, {
+        "districtGeolocation": {
+            "lat": null,
+            "lng": null
+        },
+        "districtName": "",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": null,
+        "numberOfActiveCases": null,
+        "numberOfConfirmedDeaths": null,
+        "numberOfRecoveredPatients": null,
+        "numberOfSuspectedCases": null
+    }, {
+        "districtGeolocation": {
+            "lat": null,
+            "lng": null
+        },
+        "districtName": "",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": null,
+        "numberOfActiveCases": null,
+        "numberOfConfirmedDeaths": null,
+        "numberOfRecoveredPatients": null,
+        "numberOfSuspectedCases": null
+    }, {
+        "districtGeolocation": {
+            "lat": null,
+            "lng": null
+        },
+        "districtName": "Malawi",
+        "numberOutcomeUnderInvestigation": null,
+        "numberOfLostToFollowUp": null,
+        "numberOfConfirmedCases": 34335,
+        "numberOfActiveCases": 571,
+        "numberOfConfirmedDeaths": 1155,
+        "numberOfRecoveredPatients": 32609,
+        "numberOfSuspectedCases": 246025
+    }],
+    "lastUpdate": "2021-05-31T14:43:44.602Z"
+}
